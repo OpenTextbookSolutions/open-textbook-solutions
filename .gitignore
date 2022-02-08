@@ -1,3 +1,6 @@
+
+./solutions/*/*.pdf
+
 # LaTeX gitignores:
 ## Core latex/pdflatex auxiliary files:
 *.aux
