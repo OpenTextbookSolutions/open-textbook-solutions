@@ -1,7 +1,7 @@
 
 # Open Textbook Solutions
 
-[![Bitcoin Donations](https://img.shields.io/badge/Donate%20Bitcoin-bc1qyvzqc4np4yjgvaj792wla2fr0x3pd6e7ws22g9-orange)](#donations)
+[![Bitcoin Donations](https://img.shields.io/badge/Donate%20With%20Bitcoin-bc1qyvzqc4np4yjgvaj792wla2fr0x3pd6e7ws22g9-orange)](#donations)
 
 ## Introduction
 
@@ -37,6 +37,6 @@ document for any solution set that you wish!
 
 ## Donations
 
-Donate Bitcoin:
+Help support the project by donating with Bitcoin:
 
 ![Bitcoin Donations](./readme-resources/bitcoin-donations.png "Bitcoin Donations")
