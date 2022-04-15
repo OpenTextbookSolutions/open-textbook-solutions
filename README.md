@@ -37,6 +37,6 @@ document for any solution set that you wish!
 
 ## Donations
 
-Donate via Bitcoin:
+Donate Bitcoin:
 
 ![Bitcoin Donations](./readme-resources/bitcoin-donations.png "Bitcoin Donations")
