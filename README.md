@@ -33,3 +33,6 @@ document for any solution set that you wish!
 2. Typeset previously submitted textbook solutions
 3. Correct errors, and submit improvements
 
+## Donations
+
+![Bitcoin Donations](./readme-resources/bitcoin-donations.png "Bitcoin Donations")
