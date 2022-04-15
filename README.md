@@ -1,6 +1,8 @@
 
 # Open Textbook Solutions
 
+[![Bitcoin Donations](https://img.shields.io/badge/Donate%20Bitcoin-bc1qyvzqc4np4yjgvaj792wla2fr0x3pd6e7ws22g9-orange)](#donations)
+
 ## Introduction
 
 Welcome to Open Textbook Solutions! This service hopes to solve the issue of the
